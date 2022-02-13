@@ -1,6 +1,15 @@
 {
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to create a team profile generator using node. The user will be asked to enter some information about the team and that information will be used to generate a html file that displays the full team. ",
+  "main": "index.js",
   "dependencies": {
-    "inquirer": "^8.2.0",
+    "inquirer": "^8.2.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
     "jest": "^27.5.1"
   }
 }
