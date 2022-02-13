@@ -8,7 +8,9 @@ The purpose of this project is to create a team profile generator using node. Th
 be asked to enter some information about the team and that information will be used to 
 generate a html file that displays the full team. The reason for generating the project in
 this manner is to be able to dynamically create a webpage that will be useful for future
-endeavors.
+endeavors. This project is incomplete because only the classes and the command prompt is done.
+Due to some uncertainity in storing the prompt data, the majority of code has been left in the
+develop branch of the repository.
 
 ## Project Files
 - dist directory (location of generated html file)
